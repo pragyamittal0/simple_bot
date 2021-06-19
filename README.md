@@ -1,5 +1,5 @@
-# simple_bot
-Tried a simple bot using python 
-### python bot
+# Simple_bot
+Tried a simple bot. 
+### PythonBot
 ### Library used
 NLTK
